@@ -1,5 +1,6 @@
 {
   "name": "clothing-store",
+  "homepage": "https://febassetto.github.io/clothing-store",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
