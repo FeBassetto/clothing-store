@@ -37,8 +37,10 @@
     padding: 1rem;
 
     box-sizing: border-box;
+}
 
-    border-bottom: 1px solid var(--blackLight);
+.navigationOptions__option{
+    border-bottom: solid 1px var(--black);
 }
 
 .navigationOptions__option:hover{
