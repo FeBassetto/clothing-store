@@ -6,7 +6,7 @@ const HomeBanner = () => {
 
 
     return (
-        <div className={style.banner}>
+        <section className={style.banner}>
             <BoxBanner
                 title='Ceramica de nova linhagem'
                 description='Venha conhecer nossa nova tecnologia em ceramicas.
@@ -16,7 +16,7 @@ const HomeBanner = () => {
                     type='black'
 
             />
-        </div>
+        </section>
     )
 }
 
