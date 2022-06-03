@@ -13,6 +13,8 @@
 
     display: flex;
     flex-direction: column;
+
+    z-index: 98;
 }
 
 .header__top{
