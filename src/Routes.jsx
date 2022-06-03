@@ -8,7 +8,7 @@ import Container from "./components/Container/Container";
 
 const Routing = () => {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <Header />
             <Container>
                 <Routes>
