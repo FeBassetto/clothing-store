@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/clothing-store/static/css/main.8eea98a0.css",
-    "main.js": "/clothing-store/static/js/main.e427077d.js",
+    "main.css": "/clothing-store/static/css/main.593d7fd3.css",
+    "main.js": "/clothing-store/static/js/main.830761b8.js",
     "static/media/Averox.ttf": "/clothing-store/static/media/Averox.03cb68cc71d06e233c97.ttf",
     "static/media/JuliusSans-Regular.ttf": "/clothing-store/static/media/JuliusSans-Regular.2de04709e76a8c3a838d.ttf",
     "static/media/proximanova-bold.otf": "/clothing-store/static/media/proximanova-bold.7b3122482730ca570494.otf",
@@ -10,11 +10,11 @@
     "static/media/proximanova-regular.otf": "/clothing-store/static/media/proximanova-regular.9443b70950f4aabd42ab.otf",
     "static/media/Berliana.otf": "/clothing-store/static/media/Berliana.b264dcf13f36a1be26ec.otf",
     "index.html": "/clothing-store/index.html",
-    "main.8eea98a0.css.map": "/clothing-store/static/css/main.8eea98a0.css.map",
-    "main.e427077d.js.map": "/clothing-store/static/js/main.e427077d.js.map"
+    "main.593d7fd3.css.map": "/clothing-store/static/css/main.593d7fd3.css.map",
+    "main.830761b8.js.map": "/clothing-store/static/js/main.830761b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.8eea98a0.css",
-    "static/js/main.e427077d.js"
+    "static/css/main.593d7fd3.css",
+    "static/js/main.830761b8.js"
   ]
 }
