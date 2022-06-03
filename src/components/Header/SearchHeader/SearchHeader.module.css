@@ -1,6 +1,6 @@
 .search{
     height: 100%;
-    width: 20%;
+    width: 15%;
 
     display: flex;
     align-items: center;
@@ -38,7 +38,6 @@
     background-color: inherit;
 
     font-size: 1.25vw;
-    font-family: 'proximanova-medium';
 
     width: 90%;
     height: 60%;

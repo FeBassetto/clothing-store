@@ -4,7 +4,7 @@
     left: 0;
 
     width: 100%;
-    height: 150px;
+    height: 160px;
 
     padding: 2rem;
     box-sizing: border-box;
@@ -30,13 +30,20 @@
     width: 100%;
     height: 50%;
 
-    font-family: 'ProximaNova-Medium';
+    font-family: 'ProximaNova-Regular';
     font-size: 1.25rem;
 
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 
     padding: 0 10vw;
 
     box-sizing: border-box;
+
+    color: var(--black);
+}
+
+.qualquer{
+    width: 15%;
+    text-align: right;
 }
