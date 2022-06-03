@@ -172,6 +172,7 @@ table {
 
 :root{
   --white: #ffffff;
+  --whiteDark: #ececec;
   --blackOpacity: #00000036;
   --black: #111010;
   --blackLight: #252525;
