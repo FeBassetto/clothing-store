@@ -29,11 +29,12 @@ const SearchHeader = () => {
             />
             <BiSearch
                 className={style.search__icon}
-                onClick={() => {
+                onClick={e => {
                     if (openSearch) {
                         setSearchValue('')
                     }
                     setOpenSearch(lastOpen => !lastOpen)
+                    e.target.parentNode.firstChild.focus()
                 }}
             />
             {openSearch && (
