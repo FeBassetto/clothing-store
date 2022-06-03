@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/modern-home/static/css/main.ba499bf5.css",
-    "main.js": "/modern-home/static/js/main.44553fc8.js",
+    "main.js": "/modern-home/static/js/main.d734c48f.js",
     "static/media/homeBanner.png": "/modern-home/static/media/homeBanner.8454dd49d89c6d090db5.png",
     "static/media/Averox.ttf": "/modern-home/static/media/Averox.03cb68cc71d06e233c97.ttf",
     "static/media/JuliusSans-Regular.ttf": "/modern-home/static/media/JuliusSans-Regular.2de04709e76a8c3a838d.ttf",
@@ -12,10 +12,10 @@
     "static/media/Berliana.otf": "/modern-home/static/media/Berliana.b264dcf13f36a1be26ec.otf",
     "index.html": "/modern-home/index.html",
     "main.ba499bf5.css.map": "/modern-home/static/css/main.ba499bf5.css.map",
-    "main.44553fc8.js.map": "/modern-home/static/js/main.44553fc8.js.map"
+    "main.d734c48f.js.map": "/modern-home/static/js/main.d734c48f.js.map"
   },
   "entrypoints": [
     "static/css/main.ba499bf5.css",
-    "static/js/main.44553fc8.js"
+    "static/js/main.d734c48f.js"
   ]
 }
