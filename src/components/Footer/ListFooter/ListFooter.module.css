@@ -1,5 +1,6 @@
 .listFooter{
     height: 100%;
+    max-width: calc(100%/4);
 }
 
 .listFooter h1{

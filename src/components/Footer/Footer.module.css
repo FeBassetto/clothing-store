@@ -2,6 +2,8 @@
     width: 100%;
     height: 340px;
 
+    position: relative;
+
     background-color: var(--black);
     color: var(--white);
 
@@ -14,7 +16,26 @@
 
 .footer__infos{
     width: 65%;
-    
+
     display: flex;
     justify-content: space-around;
+}
+
+.footer__creator{
+    position: absolute;
+
+    right: 11vw;
+    bottom: 2rem;
+
+    font-family: 'ProximaNova-Medium';
+
+    color: var(--greyLight);
+
+    font-size: .9rem;
+}
+
+.footer__creator a{
+    text-decoration: underline;
+
+    color: var(--white);
 }
