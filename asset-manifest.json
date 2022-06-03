@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/clothing-store/static/css/main.593d7fd3.css",
-    "main.js": "/clothing-store/static/js/main.830761b8.js",
-    "static/media/Averox.ttf": "/clothing-store/static/media/Averox.03cb68cc71d06e233c97.ttf",
-    "static/media/JuliusSans-Regular.ttf": "/clothing-store/static/media/JuliusSans-Regular.2de04709e76a8c3a838d.ttf",
-    "static/media/proximanova-bold.otf": "/clothing-store/static/media/proximanova-bold.7b3122482730ca570494.otf",
-    "static/media/proximanova-medium.otf": "/clothing-store/static/media/proximanova-medium.ee2c5881d2578dc66702.otf",
-    "static/media/proximanova-semibold.otf": "/clothing-store/static/media/proximanova-semibold.ec2c094e54dd81026793.otf",
-    "static/media/proximanova-regular.otf": "/clothing-store/static/media/proximanova-regular.9443b70950f4aabd42ab.otf",
-    "static/media/Berliana.otf": "/clothing-store/static/media/Berliana.b264dcf13f36a1be26ec.otf",
-    "index.html": "/clothing-store/index.html",
-    "main.593d7fd3.css.map": "/clothing-store/static/css/main.593d7fd3.css.map",
-    "main.830761b8.js.map": "/clothing-store/static/js/main.830761b8.js.map"
+    "main.css": "/modern-home/static/css/main.d448ea07.css",
+    "main.js": "/modern-home/static/js/main.830761b8.js",
+    "static/media/Averox.ttf": "/modern-home/static/media/Averox.03cb68cc71d06e233c97.ttf",
+    "static/media/JuliusSans-Regular.ttf": "/modern-home/static/media/JuliusSans-Regular.2de04709e76a8c3a838d.ttf",
+    "static/media/proximanova-bold.otf": "/modern-home/static/media/proximanova-bold.7b3122482730ca570494.otf",
+    "static/media/proximanova-medium.otf": "/modern-home/static/media/proximanova-medium.ee2c5881d2578dc66702.otf",
+    "static/media/proximanova-semibold.otf": "/modern-home/static/media/proximanova-semibold.ec2c094e54dd81026793.otf",
+    "static/media/proximanova-regular.otf": "/modern-home/static/media/proximanova-regular.9443b70950f4aabd42ab.otf",
+    "static/media/Berliana.otf": "/modern-home/static/media/Berliana.b264dcf13f36a1be26ec.otf",
+    "index.html": "/modern-home/index.html",
+    "main.d448ea07.css.map": "/modern-home/static/css/main.d448ea07.css.map",
+    "main.830761b8.js.map": "/modern-home/static/js/main.830761b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.593d7fd3.css",
+    "static/css/main.d448ea07.css",
     "static/js/main.830761b8.js"
   ]
 }
