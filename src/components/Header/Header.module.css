@@ -36,14 +36,10 @@
     display: flex;
     justify-content: space-around;
 
-    padding: 0 10vw;
+    padding: 0 8vw;
 
     box-sizing: border-box;
 
     color: var(--black);
 }
 
-.qualquer{
-    width: 15%;
-    text-align: right;
-}

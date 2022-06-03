@@ -2,6 +2,7 @@ import React from "react";
 import style from './Header.module.css'
 import Navigation from "./Navigation/Navigation";
 import SearchHeader from "./SearchHeader/SearchHeader";
+import HeaderIcons from './HeaderIcons/HeaderIcons';
 
 
 const Header = () => {
@@ -13,7 +14,7 @@ const Header = () => {
             <div className={style.header__bottom} >
                 <SearchHeader />
                 <Navigation />
-                <div className={style.qualquer}>oi</div>
+                <HeaderIcons />
             </div>
         </header>
     )
