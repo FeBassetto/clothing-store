@@ -1,0 +1,33 @@
+.box {
+    width: 90%;
+    height: 114px;
+
+    background-color: var(--black);
+
+    position: absolute;
+    z-index: 50;
+
+    bottom: -.5rem;
+    right: 5%;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    padding: 1.5rem;
+    box-sizing: border-box;
+
+    gap: 1rem;
+}
+
+.box h1 {
+    color: var(--white);
+
+    font-size: 1.75rem;
+    font-family: 'ProximaNova-SemiBold';
+}
+
+.box h2 {
+    color: var(--greyDark);
+    font-family: 'ProximaNova-Regular';
+}
